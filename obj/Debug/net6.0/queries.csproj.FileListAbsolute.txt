@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/queries/bin/Debug/net6.0/queries
+/Users/thatguy/code/C#/queries/bin/Debug/net6.0/queries.deps.json
+/Users/thatguy/code/C#/queries/bin/Debug/net6.0/queries.runtimeconfig.json
+/Users/thatguy/code/C#/queries/bin/Debug/net6.0/queries.dll
+/Users/thatguy/code/C#/queries/bin/Debug/net6.0/queries.pdb
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.AssemblyInfo.cs
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.dll
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/refint/queries.dll
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.pdb
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/queries.genruntimeconfig.cache
+/Users/thatguy/code/C#/queries/obj/Debug/net6.0/ref/queries.dll
